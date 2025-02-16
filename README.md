@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sky! 👋
 
-<!--
-**smayadev/smayadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps, Site Reliability, Backend Engineer** with a passion for **automation, system reliability, and backend development**. I love solving tough problems, optimizing cloud infrastructure, and building scalable solutions.
 
-Here are some ideas to get you started:
+### ⚡ **Tech I Work With:**
+- **Infrastructure & Cloud:** AWS, Terraform, Ansible, Docker, Kubernetes
+- **Observability & Monitoring:** Collectd, Prometheus, Grafana, Loki, ELK Stack, Custom-built solutions
+- **Development & Automation:** Python, Bash, PHP, JavaScript, Go, CI/CD (GitHub Actions, GitLab, Jenkins)
+- **Databases & Storage:** MySQL/MariaDB, PostgreSQL, Redis, ClickHouse, InfluxDB
+- **OS & Networking:** Linux, FreeBSD, Nginx, DNS, HTTP, TLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 **What I'm Working On:**
+- 🏗 Deep diving into **Node.js and async JavaScript** projects
+- 📦 Enhancing my **Kubernetes knowledge** through home lab clusters
+- 🚀 Exploring new ways to build **high-performance, distributed systems** and observability solutions
+
+
